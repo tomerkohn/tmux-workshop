@@ -223,7 +223,7 @@ Oh my, that was long, I wish we could search that...........
 
 ----
 
-If we know press `prefix, [`, we enter copy mode.
+If we now press `prefix, [`, we enter copy mode.
 
 Here we can search up with arrows / FN keys.
 
@@ -264,7 +264,7 @@ Sessions: `Modifier, s` then choose with arrows and enter.
 
 There are numerous ways to automate session creation in tmux, the more popular ones are [tmuxp](http://tmuxp.readthedocs.io) and [tmuxinator](https://github.com/tmuxinator/tmuxinator).
 
-Both do roughly the same thing, you can define your sessons before hand using YAML or JSON files.
+Both do roughly the same thing, you can define your sessions beforehand using YAML or JSON files.
 
 ----
 
