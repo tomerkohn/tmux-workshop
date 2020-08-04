@@ -309,6 +309,8 @@ https://leanpub.com/the-tao-of-tmux/read
 
 https://github.com/gpakosz/.tmux
 
+https://blog.birkhoff.me/make-sudo-authenticate-with-touch-id-in-a-tmux/
+
 ---
 
 # FIN
