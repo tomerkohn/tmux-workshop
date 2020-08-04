@@ -311,6 +311,8 @@ https://github.com/gpakosz/.tmux
 
 https://blog.birkhoff.me/make-sudo-authenticate-with-touch-id-in-a-tmux/
 
+As of tmux 2.1, you can enable mouse by adding it to your `.tmux.conf`: `set -g mouse on`
+
 ---
 
 # FIN
