@@ -307,6 +307,8 @@ http://tmuxp.readthedocs.io/en/latest/about_tmux.html
 
 https://leanpub.com/the-tao-of-tmux/read
 
+https://github.com/gpakosz/.tmux
+
 ---
 
 # FIN
